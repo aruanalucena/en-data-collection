@@ -1,2 +1,2 @@
-﻿Olá mundo!
-Sou um arquivo .txt!
+﻿Hello World.
+I'm a txt file!
